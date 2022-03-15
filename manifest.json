@@ -1,0 +1,26 @@
+{
+  "short_name": "Prayer Generator",
+  "name": "Prayer Generator",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "confucianism512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "confucianism192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "confucianism512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://PrayerGenerator.duckit.repl.co",
+  "background_color": "#ff9933",
+  "scope": "/",
+  "theme_color": "#29283E"
+}
